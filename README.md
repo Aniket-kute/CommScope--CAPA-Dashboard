@@ -11,9 +11,11 @@ The dashboard displays data in a user-friendly format, making it easy to identif
 The severity level is color-coded for easy identification with red for high, yellow for medium and green for low. The status column shows the current status of the CAPA such as open, closed, in progress etc. The open date and due date columns show the date the CAPA was opened and the date it is due to be closed. The dashboard also provides the capability to filter and sort the data based on the different columns and also allows to drill-down to see more details of the individual CAPA
 
 <br>
-<!-- 
-The CAPA dashboard is fully automated, which means that data is automatically collected and updated on a regular basis. The data is refreshed on a weekly basis, ensuring that the information displayed on the dashboard is accurate and up-to-date.
- -->
+
+**The CAPA dashboard is fully automated, which means that data is automatically collected and updated on a regular basis. <br> 
+The data is refreshed on a weekly basis, ensuring that the information displayed on the dashboard is accurate and up-to-date. <br> 
+This automation feature allows for a significant reduction in manual effort, and helps to ensure that CAPA information is accurate, timely, and accessible to the relevant stakeholders**
+ 
 <br>
 <br>
 
