@@ -10,4 +10,12 @@ The dashboard displays data in a user-friendly format, making it easy to identif
 
 The severity level is color-coded for easy identification with red for high, yellow for medium and green for low. The status column shows the current status of the CAPA such as open, closed, in progress etc. The open date and due date columns show the date the CAPA was opened and the date it is due to be closed. The dashboard also provides the capability to filter and sort the data based on the different columns and also allows to drill-down to see more details of the individual CAPA
 
+<br>
+
+-----
+
+_**Power Bi Dashboard:**_
+
+
+
 
