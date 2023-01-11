@@ -12,16 +12,20 @@ The severity level is color-coded for easy identification with red for high, yel
 
 <br>
 
------
-
 _**Power Bi Dashboard:**_
 
-<img src="images/capa1.jpg" WIDTH="500" HEIGHT="500">
+
+<img src="images/capa_2.jpg" WIDTH="800" HEIGHT="500">
+
 
 <br>
 <br>
 
+<img src="images/capa1.jpg" WIDTH="800" HEIGHT="500">
 
-<img src="images/capa_2.jpg" WIDTH="500" HEIGHT="500">
+
+
+-----
+
 
 
